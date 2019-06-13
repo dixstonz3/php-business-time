@@ -3,10 +3,6 @@
     "description": "Business time / working days extension for Carbon dates",
     "version": "1.1.2",
     "type": "library",
-    "require": {
-        "php": ">=5.6.4",
-        "nesbot/carbon": "1.22.1"
-    },
     "license": "MIT",
     "authors": [
         {
